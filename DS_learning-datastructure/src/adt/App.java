@@ -12,6 +12,7 @@ public class App {
 		myCounter.toString();
 		
 		System.out.println(myCounter.toString());
+		//Print counter
 		
 	}
 
